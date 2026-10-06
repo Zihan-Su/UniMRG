@@ -2,7 +2,7 @@
   <h2 align="center"><strong>Generation Enhances Understanding in Unified Multimodal Models<br> via Multi-Representation Generation</strong></h2>
 
 <p align="center">
-  <a href="https://github.com/Sugewud">Zihan Su</a><sup>1,2†*</sup>,
+  <a href="https://github.com/Zihan-Su">Zihan Su</a><sup>1,2†*</sup>,
   Hongyang Wei<sup>1*</sup></a>,
   Kangrui Cen<sup>3*</sup></a>,
   Yong Wang<sup>2‡</sup></a>,
@@ -22,7 +22,7 @@
 <div align="center">
 
 <div style="text-align: center;">
-  <a href='https://sugewud.github.io/UniMRG-Project/'><img src='https://img.shields.io/badge/-ProjectPage-black?logo=github&style=flat-square)'></a> &nbsp;
+  <a href='https://zihan-su.github.io/UniMRG-Project/'><img src='https://img.shields.io/badge/-ProjectPage-black?logo=github&style=flat-square)'></a> &nbsp;
   <a href='https://arxiv.org/abs/2601.21406'><img src='https://img.shields.io/badge/Paper-arXiv-b5212f.svg?style=flat-square&logo=arxiv)'></a> &nbsp;
   <a href='https://huggingface.co/papers/2601.21406'><img src='https://img.shields.io/badge/Paper-Hugging%20Face-yellow?style=flat-square&logo=huggingface)'></a>
   
