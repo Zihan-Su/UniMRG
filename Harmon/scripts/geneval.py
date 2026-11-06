@@ -81,7 +81,7 @@ if __name__ == "__main__":
         if os.path.isdir(args.checkpoint):
             checkpoint = guess_load_checkpoint(args.checkpoint)
         else:
-            checkpoint = torch.load(args.checkpoint, weights_only=False)
+            checkpoint = torch.load(args.checkpoint, weights_only=True)
     info = model.load_state_dict(checkpoint, strict=False)
     try:
         with open(args.validation_prompts_file) as fp:
